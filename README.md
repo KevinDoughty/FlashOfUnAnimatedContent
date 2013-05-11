@@ -1,7 +1,7 @@
 FlashOfUnAnimatedContent
 ========================
 
-Core Animation bug rdar://problem/7311367
+Core Animation bug rdar://problem/12081774
 
 It is present in regular layer animation, layer backed view hierarchies (for example on window resize there will occasionally be a flash), and CSS3 Transitions in Safari 6.0.4 for OSX 10.8.3.
 
