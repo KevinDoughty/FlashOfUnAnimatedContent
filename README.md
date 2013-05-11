@@ -7,4 +7,4 @@ It is present in regular layer animation, layer backed view hierarchies (for exa
 
 A demo using CSS3 Transitions can be seen here: http://jsfiddle.net/ZkuyR/
 
-This project simply quickly and repeatedly adds a replacement animation with both a from and to value of the identity transform. There should not be any gaps of un-animated content between animations, but the red background is exposed occasionally.
+This project simply quickly and repeatedly adds a replacement animation with both a from and to value of the identity transform. There should not be any gaps of un-animated content between animations, but the red background is exposed occasionally. You might need to be watching a movie in the background for it to show.
